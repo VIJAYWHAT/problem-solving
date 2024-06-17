@@ -19,3 +19,5 @@ int main() {
 
     return 0;
 }
+
+// Problem: Write a program to find the factorial of a given number.
